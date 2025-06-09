@@ -4,27 +4,15 @@
 
 <p align="center">
   <strong>An event monitoring tool for journalists (functional prototype)</strong><br>
-  Conflicts such as the war in Ukraine result in a constant feed of events. 
-  Many of the important sources (such as authorities, bloggers, and bystanders) may be in languages that few reporters speak.
-  TeleFlash is a prototype of a monitoring system for journalists that help them keep up with events, particularly on topics where there are few actors that would aggregate or summarise information.
-</p>
-<p align="center">
-  The prototype was part of action research to study what kind of digital tools would fit journalists' workflows and facilitate more varied use of sources in reporting.
-  TeleFlash monitors public channels covering the war in Ukrainian and Russian and identifies messages related to Finland (a topic relevant for journalists but rarely covered elsewhere).
-  The system then 
-  TeleFlash delivers automated daily summaries of Finland-related posts from Russian and Ukrainian Telegram channels to Slack.
 </p>
 
 ---
 
-## ⚡ Features
+## Overview
 
-- **📥 Automatic Daily Fetch**: Scrapes channel info and posts every morning at 06:00.
-- **🗄️ Robust Storage**: Saves data securely using SQLAlchemy and PostgreSQL.
-- **🇫🇮 Smart Detection**: Identifies posts mentioning Finland using keywords in English, Russian, and Ukrainian (e.g., "Finland", "Suomi", "Финляндия", ...).
-- **🤖 AI-Powered Summaries**: Generates summaries in English and Finnish using OpenAI.
-- **💬 Slack Integration**: Posts structured summaries and message statistics to Slack.
-- **⏰ Hands-Free Operation**: Scheduler automates the process daily.
+Conflicts such as the war in Ukraine result in a constant feed of events. Many of the important sources (such as authorities, bloggers, and bystanders) may be in languages that few reporters speak. TeleFlash is a prototype of a monitoring system for journalists that help them keep up with events, particularly on topics where there are few actors that would aggregate or summarise information.
+
+The prototype was part of action research to study what kind of digital tools would fit journalists' workflows and facilitate more varied use of sources in reporting. TeleFlash monitors public channels covering the war in Ukrainian and Russian and identifies messages related to Finland (a topic relevant for journalists but rarely covered elsewhere). It then uses LLMs to evaluate the relevance of events and to provide a summary of the most significant messages. The summary is delivered to a public Slack channel, to faciliate discussion between journalists.
 
 ---
 
