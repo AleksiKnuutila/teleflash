@@ -20,6 +20,55 @@ The work was done as part of the [Re-imagining Finnish conflict reporting
 ## Example of output
 
 
+================================================================================
+                      🇫🇮 Finland-Related Messages Summary                       
+================================================================================
+Analysis Period: 2024-04-27 to 2025-05-27 | Generated: 2025-06-10 15:39
+--------------------------------------------------------------------------------
+
+🔍 Analysis of Messages about Finland and Generated Summary:
+--------------------------------------------------------------------------------
+Overview:
+
+In the last day, several newsworthy developments related to Finland have been reported, including military exercises in the Gulf of Finland, Finland's diplomatic relations with Russia, and aviation issues affecting Finnish flights.
+
+Key Topics:
+
+Military Exercises in the Gulf of Finland:
+According to (severnygorod-291902), special forces exercises of the Russian National Guard (Rosgvardia) took place in the waters of the Gulf of Finland. The exercises involved SOBR fighters being alerted, transported by Mi-8 helicopters, and conducting diving operations in the water with mountaineering equipment.
+
+Diplomatic Relations with Russia:
+As reported by (tass_agency-317048), during a briefing, Maria Zakharova highlighted Russia's intention to transfer a memorandum to Kyiv for the settlement of the Ukrainian conflict once it is developed. Zakharova also mentioned Russia's recognition of Minsk's significant contribution to the prisoner exchange with Ukraine and criticized Western influence on Helsinki, claiming it undermines Finland's security.
+
+Aviation Issues Affecting Finnish Flights:
+Finnair decided to suspend daily flights to the Estonian city of Tartu due to GPS system disruptions, as stated in (octgnews-49737). The airline plans to develop landing methods at the Tartu airport to safely operate flights without GPS signals. This decision comes after an incident where a Finnair plane returning to Helsinki from Estonia was unable to land in Tartu due to the GPS system requirement specific to that airport, according to (octgnews-49686).
+
+Counter-Drone Measures in Finland:
+Reported by (octgnews-49688), Finnish police and military have received anti-drone rifles to combat unauthorized drones flying in restricted areas. These devices are equipped with jamming systems to intercept and disrupt drone control, forcing them to return or land. The Air Force Commander, Juha-Pekka Keränen, mentioned that several UAVs have already been brought down using these measures, emphasizing their effectiveness against civilian drones.
+
+These developments underscore the various aspects of Finland's engagements in military exercises, aviation operations, diplomatic relations with Russia, and efforts to enhance security through modern technology and defense measures.
+--------------------------------------------------------------------------------
+
+📊 Basic Metrics:
+• Total Messages Analyzed (related to Finland): 7
+• Total Views: 81,683
+• Total Forwards: 79
+
+📈 Average Metrics:
+• Avg Views/Post: 11669.0 (how many views each post related to Finland gets on average)
+• Avg Forwards/Post: 11.3 (how many times each post related to Finland is shared on average)
+• Base Engagement: 0.1% (how many viewers share the content about Finland)
+
+🔄 Advanced Engagement:
+• Views/Forwards Ratio: 1034.0 (how many people view before someone shares)
+• Virality Score: 1.1% (how likely content is to spread)
+• Unique Channels: 4 (number of different channels posting about Finland)
+
+📊 Distribution Patterns:
+• Posts/Day: 1.0 (average number of posts each day)
+• Peak Daily Posts: 1 (highest number of posts in one day)
+• Channel Activity Ratio: 1.8 (average posts about Finland per channel)
+================================================================================
 
 ---
 
