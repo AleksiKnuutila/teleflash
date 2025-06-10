@@ -20,14 +20,15 @@ The work was done as part of the [Re-imagining Finnish conflict reporting
 ## Example of output
 
 
-================================================================================
+---
                       🇫🇮 Finland-Related Messages Summary                       
-================================================================================
-Analysis Period: 2024-04-27 to 2025-05-27 | Generated: 2025-06-10 15:39
---------------------------------------------------------------------------------
+---
+
+Analysis Period: 2024-04-27 to 2024-04-28
+
 
 🔍 Analysis of Messages about Finland and Generated Summary:
---------------------------------------------------------------------------------
+---
 Overview:
 
 In the last day, several newsworthy developments related to Finland have been reported, including military exercises in the Gulf of Finland, Finland's diplomatic relations with Russia, and aviation issues affecting Finnish flights.
@@ -47,10 +48,11 @@ Counter-Drone Measures in Finland:
 Reported by (octgnews-49688), Finnish police and military have received anti-drone rifles to combat unauthorized drones flying in restricted areas. These devices are equipped with jamming systems to intercept and disrupt drone control, forcing them to return or land. The Air Force Commander, Juha-Pekka Keränen, mentioned that several UAVs have already been brought down using these measures, emphasizing their effectiveness against civilian drones.
 
 These developments underscore the various aspects of Finland's engagements in military exercises, aviation operations, diplomatic relations with Russia, and efforts to enhance security through modern technology and defense measures.
---------------------------------------------------------------------------------
+
+---
 
 📊 Basic Metrics:
-• Total Messages Analyzed (related to Finland): 7
+• Total Messages Analyzed (related to Finland): 73
 • Total Views: 81,683
 • Total Forwards: 79
 
@@ -65,10 +67,9 @@ These developments underscore the various aspects of Finland's engagements in mi
 • Unique Channels: 4 (number of different channels posting about Finland)
 
 📊 Distribution Patterns:
-• Posts/Day: 1.0 (average number of posts each day)
-• Peak Daily Posts: 1 (highest number of posts in one day)
+• Posts/Day: 13.3 (average number of posts each day)
+• Peak Daily Posts: 21 (highest number of posts in one day)
 • Channel Activity Ratio: 1.8 (average posts about Finland per channel)
-================================================================================
 
 ---
 
